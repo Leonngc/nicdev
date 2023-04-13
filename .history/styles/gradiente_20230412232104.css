@@ -1,0 +1,24 @@
+
+.contain{
+    margin: auto;
+    width: 100vw;
+    text-align: center;
+    height: 40vh;
+   background-color: red;
+}
+
+.contain > h2{
+    margin-top: 48px
+}
+
+.contain > ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.contain > ul > li{
+     margin: 25px;
+     font-size: 22px;
+}

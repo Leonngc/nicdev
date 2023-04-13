@@ -1,0 +1,27 @@
+
+.contain{
+    margin: auto;
+    width: 100vw;
+    height: 40vh;
+   background-color: red;
+   justify-content: center;
+   text-align: center;
+  
+}
+
+
+
+.contain > ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around; 
+    margin-left: 380px;
+    margin-right: 380px;
+    ma
+}
+
+.contain > ul > li{
+     
+     font-size: 22px;
+    
+}

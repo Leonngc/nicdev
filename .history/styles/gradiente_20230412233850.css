@@ -1,0 +1,25 @@
+
+.contain{
+    margin: auto;
+    width: 100vw;
+    height: 50vh;
+   background-color: red;
+   justify-content: center;
+   text-align: center;
+   padding-top: 100px;
+}
+
+
+
+.skills{
+    display: flex;
+    justify-content: space-around; 
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-top: 80px;
+    bor
+}
+
+.skills > span{
+    font-size: 22px;
+}

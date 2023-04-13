@@ -1,0 +1,14 @@
+
+.contain{
+    margin: auto;
+    width: 100vw;
+    text-align: center;
+    height: 40vh;
+   background-color: red;
+}
+
+.contain > ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
