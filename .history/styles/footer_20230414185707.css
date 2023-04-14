@@ -1,0 +1,23 @@
+footer{
+    background-color: black;
+    text-align: center;
+    margin-top: 200px;
+    padding: 15px;
+    height: 13vh;
+}
+
+footer > p  a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer > p > a:hover{
+    color: #66CDAA;
+    transition: 1s;
+}
+
+.rights{
+    color: ;
+}

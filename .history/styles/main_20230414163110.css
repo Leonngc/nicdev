@@ -50,25 +50,9 @@ h3{
 .text-box > p{
      font-size: 28px;
     text-align: justify;
-    padding: 20px;
+    padding: ;
 }
 .text-box > .image img{
     width: 500px;
     padding: 20px;
 }
-
-.word-emphasis{
-    color: #66CDAA;
-    font-weight: bold;
-}
-
-.word-emphasis:hover{
-    text-decoration: underline;
-    color: #3c7562;
-}
-
-.slogan{
-    width: 800px;
-}
-
-

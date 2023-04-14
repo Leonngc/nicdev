@@ -47,28 +47,7 @@ h3{
     margin: auto;
     margin-top: 100px;
 }
-.text-box > p{
-     font-size: 28px;
-    text-align: justify;
-    padding: 20px;
-}
-.text-box > .image img{
-    width: 500px;
-    padding: 20px;
-}
 
-.word-emphasis{
-    color: #66CDAA;
-    font-weight: bold;
+.text-box > . img{
+    width: 300px;
 }
-
-.word-emphasis:hover{
-    text-decoration: underline;
-    color: #3c7562;
-}
-
-.slogan{
-    width: 800px;
-}
-
-

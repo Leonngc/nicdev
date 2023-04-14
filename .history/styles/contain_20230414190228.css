@@ -13,6 +13,7 @@
 }
 
 .contain{
+
     margin: auto;
     width: 100vw;
     height: 90vh;
@@ -39,7 +40,6 @@
 h2{
     font-family: Lastica, sans-serif;
     font-weight: bold;
-    margin-top: 30px;
 }
 
 .skills{

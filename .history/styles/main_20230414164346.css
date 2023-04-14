@@ -59,16 +59,4 @@ h3{
 
 .word-emphasis{
     color: #66CDAA;
-    font-weight: bold;
 }
-
-.word-emphasis:hover{
-    text-decoration: underline;
-    color: #3c7562;
-}
-
-.slogan{
-    width: 800px;
-}
-
-
