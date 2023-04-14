@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@font-face {
+    font-family: Lastica;
+    src: url(../fonts/instrg.ttf)
+}
+
+*{
+    ma
+}
+
+:root{
+ --bebas-neue : 'Bebas Neue', cursive;
+}
+
+.contain{
+    margin: auto;
+    width: 100vw;
+    height: 50vh;
+   justify-content: center;
+   text-align: center;
+   padding-top: 100px;
+
+   background-image: linear-gradient(
+  270deg,
+  hsl(0, 0%, 32%) 0%,
+  hsl(0deg 0% 50%) 13%,
+  hsl(0deg 0% 71%) 25%,
+  hsl(0deg 0% 87%) 37%,
+  hsl(0deg 0% 100%) 50%,
+  hsl(0deg 0% 87%) 63%,
+  hsl(0deg 0% 71%) 75%,
+  hsl(0deg 0% 50%) 87%,
+  hsl(0deg 0% 32%) 100%
+);
+
+}
+
+
+h2{
+    font-family: Lastica, sans-serif;
+    font-weight: bold;
+}
+
+.skills{
+    width: 50%;
+    display: flex;
+    justify-content: space-around; 
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-top: 80px;
+    border-bottom: 3px solid black;
+}
+
+.skills > span{
+    font-size: 28px;
+    font-family: var(--bebas-neue), sans-serif;
+    color: #4BC6B9;
+    padding: 3px;
+}
+
+.code-image{
+    width: 500px;
+}
+
+@media screen and (max-width: 900px) {
+    .skills{
+        margin: auto;
+    }
+}
