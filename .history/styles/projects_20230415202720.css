@@ -100,22 +100,7 @@ li > img{
     }
     .slogan{
         font-size: 12px;
-        padding: 20px;
     }
 
-   main > p{
-    width: 90vw;
-   }
 
-   main > ul{
-    margin: auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    font-size: 18px;
-    padding: 30px;
-   }
-
-   main > ul > li{
-    padding: 16px;
-   }
 }

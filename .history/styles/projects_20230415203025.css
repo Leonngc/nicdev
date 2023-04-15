@@ -104,18 +104,14 @@ li > img{
     }
 
    main > p{
-    width: 90vw;
+    width: 80vw;
    }
 
    main > ul{
     margin: auto;
     margin-top: 30px;
-    margin-bottom: 30px;
+    mar
     font-size: 18px;
-    padding: 30px;
-   }
-
-   main > ul > li{
-    padding: 16px;
+    padding: 20px;
    }
 }

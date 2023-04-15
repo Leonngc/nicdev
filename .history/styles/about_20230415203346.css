@@ -55,8 +55,5 @@ strong{
         font-size: 20px;
     }
 
-    main > p{
-        width: 90vw;
-        font-size: 18px;
-    }
+    main
 }

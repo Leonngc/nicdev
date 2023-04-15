@@ -104,7 +104,7 @@ li > img{
     }
 
    main > p{
-    width: 90vw;
+    width: 80vw;
    }
 
    main > ul{
@@ -115,7 +115,7 @@ li > img{
     padding: 30px;
    }
 
-   main > ul > li{
-    padding: 16px;
+   main > li{
+    margin-bottom: 10px;
    }
 }
