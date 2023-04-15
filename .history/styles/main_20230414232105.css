@@ -151,10 +151,7 @@ footer > p > a:hover{
 
 @media screen and (max-width:900px){
     body{
-        overflow-x: hidden;
-    }
-    main{
-        overflow-x: hidden;
+        
     }
     .contain{
         background-image: none;

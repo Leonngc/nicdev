@@ -153,9 +153,6 @@ footer > p > a:hover{
     body{
         overflow-x: hidden;
     }
-    main{
-        overflow-x: hidden;
-    }
     .contain{
         background-image: none;
     }
