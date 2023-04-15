@@ -178,12 +178,10 @@ h3{
 footer{
     margin-top: 100px;
     height: 16vh;
-    
+    color: #4BC6B9;
 }
 
-footer > p > a{
-    color: #4bc6a3;
-}
+footer> p
 
 }
 

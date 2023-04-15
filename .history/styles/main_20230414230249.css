@@ -123,41 +123,7 @@ h3{
 .slogan{
     width: 800px;
 }
-
-footer{
-    background-color: black;
-    text-align: center;
-    margin-top: 200px;
-    padding: 15px;
-    height: 13vh;
-}
-
-footer > p  a{
-    padding: 10px;
-    text-decoration: none;
-    color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-footer > p > a:hover{
-    color: #66CDAA;
-    transition: 1s;
-}
-
-.rights{
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-}
-
 @media screen and (max-width:900px){
-
-    .contain{
-        background-image: none;
-    }
-    .skills{
-        margin: auto;
-    }
-
     .box{
     width: 85vw;
 }
@@ -166,24 +132,15 @@ footer > p > a:hover{
 }
 
 .text-box > p{
-    font-size: 18px;
+    font-size: 22px;
     padding: 5px;
     margin-bottom: 30px;
 }
 
 h3{
-    font-size: 25px;
+    font-size: 30px;
 }
 
-footer{
-    margin-top: 100px;
-    height: 16vh;
-    
-}
-
-footer > p > a{
-    color: #4bc6a3;
-}
 
 }
 

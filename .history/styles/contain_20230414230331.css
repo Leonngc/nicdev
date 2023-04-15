@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); /* CDN GOOGLE  FONT */
+@font-face {
+    font-family: Lastica;
+    src: url(../fonts/instrg.ttf)
+}
+
+*{
+    max-width: 100vw;
+}
+
+:root{
+ --bebas-neue : 'Bebas Neue', cursive;
+}
+
+
+
+@media screen and (max-width: 900px) {
+    .contain{
+        background-image: none;
+    }
+    .skills{
+        margin: auto;
+    }
+    
+}

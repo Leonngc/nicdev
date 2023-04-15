@@ -166,24 +166,15 @@ footer > p > a:hover{
 }
 
 .text-box > p{
-    font-size: 18px;
+    font-size: 22px;
     padding: 5px;
     margin-bottom: 30px;
 }
 
 h3{
-    font-size: 25px;
+    font-size: 30px;
 }
 
-footer{
-    margin-top: 100px;
-    height: 16vh;
-    
-}
-
-footer > p > a{
-    color: #4bc6a3;
-}
 
 }
 
