@@ -61,14 +61,7 @@ h2{
     padding: 3px;
 }
 
-.skills > span:hover {
-    font-size: 30px;
-    transition: .8s;
-    background-color: #feffff;
-    border-radius: 20px;
-    padding: 10px;
-    
-}
+.skills > spa
 
 .code-image{
     width: 300px;

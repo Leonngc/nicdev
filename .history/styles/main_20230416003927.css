@@ -64,9 +64,7 @@ h2{
 .skills > span:hover {
     font-size: 30px;
     transition: .8s;
-    background-color: #feffff;
-    border-radius: 20px;
-    padding: 10px;
+    text-decoration: solid;
     
 }
 

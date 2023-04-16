@@ -60,13 +60,11 @@ h2{
     color: #4BC6B9;
     padding: 3px;
 }
-
+!important
 .skills > span:hover {
     font-size: 30px;
     transition: .8s;
-    background-color: #feffff;
-    border-radius: 20px;
-    padding: 10px;
+    color: hsl(0, 0%, 32%); 
     
 }
 

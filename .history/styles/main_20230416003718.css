@@ -62,11 +62,10 @@ h2{
 }
 
 .skills > span:hover {
+    {!important
     font-size: 30px;
     transition: .8s;
-    background-color: #feffff;
-    border-radius: 20px;
-    padding: 10px;
+    color: hsl(0, 0%, 32%); 
     
 }
 

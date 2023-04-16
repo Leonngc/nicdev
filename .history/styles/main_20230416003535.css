@@ -61,13 +61,8 @@ h2{
     padding: 3px;
 }
 
-.skills > span:hover {
+.skills > span:hover{
     font-size: 30px;
-    transition: .8s;
-    background-color: #feffff;
-    border-radius: 20px;
-    padding: 10px;
-    
 }
 
 .code-image{
