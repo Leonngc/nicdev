@@ -85,7 +85,7 @@ main > ul{
     text-align: left;
 }
 
-main a{
+main > a{
     color: #66CDAA;
 }
 
