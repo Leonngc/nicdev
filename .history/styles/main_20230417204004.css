@@ -55,7 +55,6 @@ h2{
 }
 
 .skills > span{
-    text-align: center;
     font-size: 28px;
     font-family: var(--bebas-neue), sans-serif;
     color: #4BC6B9;

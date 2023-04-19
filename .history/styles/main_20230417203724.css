@@ -47,7 +47,7 @@ h2{
 .skills{
     width: 50%;
     display: flex;
-    justify-content: space-evenly; 
+    justify-content: space-between; 
     margin-left: 380px;
     margin-right: 380px;
     margin-top: 80px;
@@ -55,7 +55,6 @@ h2{
 }
 
 .skills > span{
-    text-align: center;
     font-size: 28px;
     font-family: var(--bebas-neue), sans-serif;
     color: #4BC6B9;
