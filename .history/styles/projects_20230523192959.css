@@ -108,9 +108,6 @@ li > img{
     position: static;
     margin: auto;
     }
-    main{
-      margin-top: 100px;
-    }
    main > p{
     width: 90vw;
    }

@@ -62,10 +62,7 @@ main{
 
 h2{
     font-family: var(--bebas-neue);
-    text-align: center;
-    position: absolute;
-    left: 50%;
-    top: 40%;
+    
 }
 
 main > p{
@@ -104,13 +101,7 @@ li > img{
         font-size: 12px;
         padding: 20px;
     }
-    h2{
-    position: static;
-    margin: auto;
-    }
-    main{
-      margin-top: 100px;
-    }
+
    main > p{
     width: 90vw;
    }

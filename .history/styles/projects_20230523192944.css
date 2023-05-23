@@ -105,11 +105,8 @@ li > img{
         padding: 20px;
     }
     h2{
-    position: static;
+    position: relative;
     margin: auto;
-    }
-    main{
-      margin-top: 100px;
     }
    main > p{
     width: 90vw;
