@@ -49,7 +49,6 @@ h2{
     display: flex;
     justify-content: space-evenly; 
     margin: auto;
-    margin-top: 80px;
     border-bottom: 2px solid black;
 }
 

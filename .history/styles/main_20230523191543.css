@@ -41,15 +41,14 @@
 h2{
     font-family: Lastica, sans-serif;
     font-weight: bold;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 
 .skills{
     width: 50%;
     display: flex;
     justify-content: space-evenly; 
-    margin: auto;
-    margin-top: 80px;
+    margin: 100px auto;
     border-bottom: 2px solid black;
 }
 
