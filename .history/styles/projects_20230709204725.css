@@ -84,7 +84,7 @@ main > ul{
     text-align: left;
 }
 
-main a:not(#btn-whatsapp-flutuante){
+main a:no{
     color: #66CDAA;
 }
 
