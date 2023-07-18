@@ -70,13 +70,6 @@
     box-shadow: inset 0 0 0 50vw rgba(0, 0, 0, 0.835);
   }
 
-  #card-7{
-    background-image: url(../images/sitenutri.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    box-shadow: inset 0 0 0 50vw rgba(0, 0, 0, 0.835);
-  }
-
   .card:hover{
     box-shadow: inset 0 0 0 50vw rgba(0, 0, 0, 0.309);
     transform: scale(1.1); 
@@ -97,7 +90,7 @@
 }
   
   .info-card > h3{
-    font-size: 30px;
+    font-size: 40px;
   }
   
   .info-card > p{
